@@ -1,2 +1,2 @@
-# simple_shell12
+# simple_shell
 This repository contains a simple shell program
