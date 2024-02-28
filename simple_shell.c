@@ -7,9 +7,9 @@
 #define BUFFER_SIZE 1024
 
 /**
-* execute_command - Executes a command.
-* @buffer: The command buffer.
-* Return: Nothing.
+* execute_command - For command Execution.
+* @buffer: A buffer for the commad.
+* Return: Returns nothing Nothing.
 */
 void execute_command(char *buffer)
 {
